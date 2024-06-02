@@ -5,6 +5,6 @@ This repo contains five stage pipeline from TL-Verilog on Makerchip IDE.
 # FETCH
 ![alt text](https://github.com/HafsaParker/RISC-V-MicroArchitecture-Using-TL-Verilog/blob/main/fetch_CD.png)
 # DECODE
-![alt text]()
+![alt text](https://github.com/HafsaParker/RISC-V-MicroArchitecture-Using-TL-Verilog/blob/main/Decode_CD.png)
 # INSTRUCTION IMMEDIATE DECODE
 ![alt text]()
