@@ -12,5 +12,5 @@ This repo contains five stage pipeline from TL-Verilog on Makerchip IDE.
 ![alt text](https://github.com/HafsaParker/RISC-V-MicroArchitecture-Using-TL-Verilog/blob/main/ID_CD.png)
 # REGISTER FILE
 ![alt text](https://github.com/HafsaParker/RISC-V-MicroArchitecture-Using-TL-Verilog/blob/main/RF_CD.png)
-# ALU
+# ALU_RW_BRANCHES
 ![alt text]()
